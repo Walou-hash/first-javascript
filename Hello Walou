@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    	<p2>Hello Walou</p2>
+        <title>Hello Walou</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+		<script>
+			/*alert("Hello Walou")
+ 			var produit = 'fruits';
+			var quantite = 10;*/
+			 var monPrenom="Walou" var monAge= 17;
+            alert(monAge)
+		</script>
+    </body>
+</html>
